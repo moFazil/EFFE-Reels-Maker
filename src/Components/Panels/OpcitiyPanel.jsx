@@ -2,7 +2,7 @@ import React from 'react'
 
 const OpcitiyPanel = () => {
   return (
-    <div>OpcitiyPanel</div>
+    <div className=' absolute left-20'>OpcitiyPanel</div>
   )
 }
 

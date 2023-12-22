@@ -2,7 +2,7 @@ import React from 'react'
 
 const ShapesPanel = () => {
   return (
-    <div>ShapesPanel</div>
+    <div className=' absolute left-20'>ShapesPanel</div>
   )
 }
 

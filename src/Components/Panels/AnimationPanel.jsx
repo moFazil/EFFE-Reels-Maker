@@ -2,7 +2,7 @@ import React from 'react'
 
 const AnimationPanel = () => {
   return (
-    <div>AnimationPanel</div>
+    <div className=' absolute left-20'>AnimationPanel</div>
   )
 }
 

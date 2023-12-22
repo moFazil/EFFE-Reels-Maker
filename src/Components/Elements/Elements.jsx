@@ -2,7 +2,7 @@ import React from 'react'
 
 const Elements = () => {
   return (
-    <div>Elements</div>
+    <div className='mx-2'>Elements</div>
   )
 }
 

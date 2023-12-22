@@ -2,7 +2,7 @@ import React from 'react'
 
 const ImagePanel = () => {
   return (
-    <div>ImagePanel</div>
+    <div  className=' absolute left-20'>ImagePanel</div>
   )
 }
 

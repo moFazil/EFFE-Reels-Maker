@@ -2,7 +2,7 @@ import React from 'react'
 
 const TextPanel = () => {
   return (
-    <div>TextPanel</div>
+    <div className=' absolute left-20'>TextPanel</div>
   )
 }
 

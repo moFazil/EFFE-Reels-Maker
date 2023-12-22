@@ -2,7 +2,7 @@ import React from 'react'
 
 const AudioPanel = () => {
   return (
-    <div className=' absolute'>AudioPanel</div>
+    <div className=' absolute left-20'>AudioPanel</div>
   )
 }
 
